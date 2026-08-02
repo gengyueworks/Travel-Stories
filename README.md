@@ -20,12 +20,12 @@ Every story appears in both Chinese and English. All words and photographs are m
 | [美食 · 和松露猎人，穿越佛罗伦萨的森林去探险](collaborations/airbnb/truffle-hunters-florence/index.zh.md) | [Gourmet with Truffle Hunters](collaborations/airbnb/truffle-hunters-florence/index.en.md) | 佛罗伦萨 |
 | [巴黎 · 去爱吧，就像不曾受过伤一样](collaborations/airbnb/paris-go-love/index.zh.md) | [Paris · Love Like You've Never Been Hurt](collaborations/airbnb/paris-go-love/index.en.md) | 巴黎 |
 | [遇到，想不到 · 旧金山](collaborations/airbnb/san-francisco-heart/index.zh.md) | [Encounter, Unimaginable · San Francisco](collaborations/airbnb/san-francisco-heart/index.en.md) | 旧金山 |
-| [我的第一个视频旅行故事：和维也纳房东的3x24小时](collaborations/airbnb/vienna-host-3x24/index.zh.md) | 待补 | 维也纳 |
-| [日本唯一的房车 Airbnb · 酷酷的“老司机”](collaborations/airbnb/okinawa-rv-airbnb/index.zh.md) | 待补 | 冲绳 |
-| [你和民宿旅行达人之间，仅隔着这张清单](collaborations/airbnb/minsu-guide-list/index.zh.md) | 待补 | 民宿清单栏目 |
-| [梦想总要有，万一成真了呢？](collaborations/airbnb/free-stay-hangzhou/index.zh.md) | 待补 | 杭州 |
-| [48小时 VLOG · 在城市谋生谋爱的你](collaborations/airbnb/beijing-48h-vlog/index.zh.md) | 待补 | 北京 |
-| [布拉格船屋 · 相逢即美好，沉潜的力量](collaborations/airbnb/prague-houseboat/index.zh.md) | 待补 | 布拉格 |
+| [我的第一个视频旅行故事：和维也纳房东的3x24小时](collaborations/airbnb/vienna-host-3x24/index.zh.md) | 中文版 | 维也纳 |
+| [日本唯一的房车 Airbnb · 酷酷的"老司机"](collaborations/airbnb/okinawa-rv-airbnb/index.zh.md) | 中文版 | 冲绳 |
+| [你和民宿旅行达人之间，仅隔着这张清单](collaborations/airbnb/minsu-guide-list/index.zh.md) | 中文版 | 民宿清单栏目 |
+| [梦想总要有，万一成真了呢？](collaborations/airbnb/free-stay-hangzhou/index.zh.md) | 中文版 | 杭州 |
+| [48小时 VLOG · 在城市谋生谋爱的你](collaborations/airbnb/beijing-48h-vlog/index.zh.md) | 中文版 | 北京 |
+| [布拉格船屋 · 相逢即美好，沉潜的力量](collaborations/airbnb/prague-houseboat/index.zh.md) | 中文版 | 布拉格 |
 
 ---
 
@@ -60,11 +60,11 @@ Every story appears in both Chinese and English. All words and photographs are m
 | [在印度的时光](stories/india-memories/index.zh.md) | [Time in India](stories/india-memories/index.en.md) | 印度 |
 | [厦门 · 在蓝屿](stories/xiamen-blue-island/index.zh.md) | [Xiamen · At the Blue Island](stories/xiamen-blue-island/index.en.md) | 厦门 |
 | [六月新疆行](stories/xinjiang-four-seasons/index.zh.md) | [June in Xinjiang](stories/xinjiang-four-seasons/index.en.md) | 新疆 |
-| [巴塞罗那 · 总想再去看看的地方](stories/barcelona-gracia-food-gaudi/index.zh.md) | 待补 | 巴塞罗那 |
-| [苏东坡的城市之旅 · 有没有因为一个人而爱上一座城](stories/su-dongpo-cities/index.zh.md) | 待补 | 苏东坡足迹 |
-| [建筑之美 · 巴塞罗那的高迪](stories/gaudi-barcelona/index.zh.md) | 待补 | 巴塞罗那 |
-| [巨型建筑 · 迪拜的震撼](stories/dubai-mega-structures/index.zh.md) | 待补 | 迪拜 |
-| [上海弄堂 · 雨中偶遇的惊喜](stories/shanghai-lane-walks/index.zh.md) | 待补 | 上海 |
+| [巴塞罗那 · 总想再去看看的地方](stories/barcelona-gracia-food-gaudi/index.zh.md) | 中文版 | 巴塞罗那 |
+| [苏东坡的城市之旅 · 有没有因为一个人而爱上一座城](stories/su-dongpo-cities/index.zh.md) | 中文版 | 苏东坡足迹 |
+| [建筑之美 · 巴塞罗那的高迪](stories/gaudi-barcelona/index.zh.md) | 中文版 | 巴塞罗那 |
+| [巨型建筑 · 迪拜的震撼](stories/dubai-mega-structures/index.zh.md) | 中文版 | 迪拜 |
+| [上海弄堂 · 雨中偶遇的惊喜](stories/shanghai-lane-walks/index.zh.md) | 中文版 | 上海 |
 
 ---
 
