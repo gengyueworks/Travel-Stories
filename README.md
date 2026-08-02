@@ -8,9 +8,13 @@ Every story appears in both Chinese and English. All words and photographs are m
 
 ---
 
-## Airbnb 合作 · Airbnb Collaborations
+## 住宿品牌合作 · Accommodation Collaborations
 
-与 Airbnb 一起，住进一座城市，也住进当地人的生活。从上海弄堂到重庆山城，从佛罗伦萨的松露森林到布拉格的甜——这是我和 Airbnb 联手呈现的住宿体验系列。
+与住宿品牌一起，住进一座城市，也住进当地人的生活。从 Airbnb 民宿到奢华精品酒店——这是我和全球住宿品牌联手呈现的住宿体验系列。
+
+### Airbnb 合作
+
+与 Airbnb 一起，从上海弄堂到重庆山城，从佛罗伦萨的松露森林到布拉格的甜。
 
 | 中文版 | English | 城市 |
 |--------|---------|------|
@@ -26,6 +30,16 @@ Every story appears in both Chinese and English. All words and photographs are m
 | [梦想总要有，万一成真了呢？](collaborations/airbnb/free-stay-hangzhou/index.zh.md) | 中文版 | 杭州 |
 | [48小时 VLOG · 在城市谋生谋爱的你](collaborations/airbnb/beijing-48h-vlog/index.zh.md) | 中文版 | 北京 |
 | [布拉格船屋 · 相逢即美好，沉潜的力量](collaborations/airbnb/prague-houseboat/index.zh.md) | 中文版 | 布拉格 |
+
+### 奢华酒店合作 · Luxury Hotels
+
+与全球奢华酒店品牌一起，住进设计与故事的现场。
+
+| 中文版 | English | 城市 / 地点 |
+|--------|---------|------|
+| [沙漠钻石酒店 · 重启：回归内心宇宙](collaborations/hotels/desert-diamond/index.zh.md) | 中文版 | 宁夏 · 中卫 · 腾格里沙漠 |
+| [越南岘港 Fusion ·「住进水疗里」的身心焕新之旅](collaborations/hotels/fusion-da-nang/index.zh.md) | 中文版 | 越南 · 岘港 |
+| [无锡荡口古镇美憬阁 · 重绘一曲江南史诗](collaborations/hotels/mgallery-dangkou/index.zh.md) | 中文版 | 江苏 · 无锡 · 荡口古镇 |
 
 ---
 
