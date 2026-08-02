@@ -78,6 +78,7 @@ Every story appears in both Chinese and English. All words and photographs are m
 
 | 中文版 | English | 城市 |
 |--------|---------|------|
+| [2025 成都旅行参考 · 景点、美食、路线实用信息合集](guides/chengdu-travel-guide/index.zh.md) | 中文版 | 成都 |
 | [伦敦24小时清单 · 英伦韵味](guides/london-24-hours/index.zh.md) | [London 24-Hour List · British Charm](guides/london-24-hours/index.en.md) | 伦敦 |
 | [72小时寻味普吉岛](guides/phuket-72-hours/index.zh.md) | [72 Hours in Search of Phuket's True Flavors](guides/phuket-72-hours/index.en.md) | 普吉岛 |
 
