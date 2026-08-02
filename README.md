@@ -49,7 +49,7 @@ Every story appears in both Chinese and English. All words and photographs are m
 
 24 小时、72 小时，把一座城市吃到玩透的城市清单。
 
-**→ [查看全部旅行攻略（庞贝古城 · 诗意地名 · 张家界 · 成都 · 伦敦）](guides/)**
+**→ [旅行攻略已独立成专题：Travel-Guides](https://github.com/gengyueworks/Travel-Guides)**
 
 ---
 
