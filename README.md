@@ -60,6 +60,7 @@ Every story appears in both Chinese and English. All words and photographs are m
 | [梦想总要有，万一成真了呢？](collaborations/airbnb/free-stay-hangzhou/index.zh.md) | 中文版 | 杭州 |
 | [48小时 VLOG · 在城市谋生谋爱的你](collaborations/airbnb/beijing-48h-vlog/index.zh.md) | 中文版 | 北京 |
 | [布拉格船屋 · 相逢即美好，沉潜的力量](collaborations/airbnb/prague-houseboat/index.zh.md) | 中文版 | 布拉格 |
+| [在书店里度过的一晚 · 荒岛奇妙夜](collaborations/airbnb/shanghai-bookshop/index.zh.md) | 中文版 | 上海 |
 
 ### 奢华酒店合作 · Luxury Hotels
 
