@@ -64,6 +64,7 @@ Every story appears in both Chinese and English. All words and photographs are m
 | [苏东坡的城市之旅 · 有没有因为一个人而爱上一座城](stories/su-dongpo-cities/index.zh.md) | 待补 | 苏东坡足迹 |
 | [建筑之美 · 巴塞罗那的高迪](stories/gaudi-barcelona/index.zh.md) | 待补 | 巴塞罗那 |
 | [巨型建筑 · 迪拜的震撼](stories/dubai-mega-structures/index.zh.md) | 待补 | 迪拜 |
+| [上海弄堂 · 雨中偶遇的惊喜](stories/shanghai-lane-walks/index.zh.md) | 待补 | 上海 |
 
 ---
 
