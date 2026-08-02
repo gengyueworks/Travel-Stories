@@ -3,9 +3,6 @@ title: 无锡荡口古镇美憬阁精选酒店：重绘一曲江南史诗
 city: 江苏 · 无锡 · 荡口古镇
 hotel: 无锡荡口古镇美憬阁精选酒店（Wuxi Dangkou Ancient Town Hotel, MGallery）
 brand: 美憬阁（MGallery）— 雅高集团精选品牌
-publisher: 吾心即宇宙
-author: 耿悦
-first_published_on: 微信公众号「吾心即宇宙」
 original_url: https://mp.weixin.qq.com/s/FQKTCYZ8JturLcHxZy8nDw
 image_credit: 品牌官方、耿悦
 license_note: |
@@ -17,8 +14,6 @@ license_note: |
 # 无锡荡口古镇美憬阁精选酒店 · 重绘一曲江南史诗
 
 江苏，无锡，荡口古镇，江南水乡千年文脉。
-
-**首发**：微信公众号「吾心即宇宙」 · 撰文：耿悦
 
 **素材授权**：本文图片与文字均来自「无锡荡口古镇美憬阁精选酒店」品牌方授权。文中部分内容为酒店官方品牌资料的摘录。
 
@@ -62,8 +57,6 @@ license_note: |
 
 桥的设计保留了江南石桥的古朴，也融入了现代的简约线条。水道蜿蜒其间，客人可乘坐摇橹船，于北仓河上泛舟慢行。船过桥下，橹影摇曳，橹声欸乃，恍若梦回江南旧时光。04. Guest Room 
 
-<table><tr><td><img src="images/021.png" alt="" width="100%"></td></tr></table>
-
 178间客房及套房以庭院式布局呈现，将文化底蕴与历史故事融于设计，穿梭交响于酒店的每一个空间之中。
 
 <table><tr><td><img src="images/022.png" alt="" width="100%"></td></tr></table>
@@ -77,8 +70,6 @@ license_note: |
 <img src="layout/side-by-side-09.jpg" alt="" width="100%">
 
 所用的马林·格茨洗漱用品散发淡淡草木香，汉斯格雅卫浴设施将现代舒适与古典美学完美结合。美憬阁定制床具系统，带来轻柔包裹感，让你融入江南水乡的秀梦中。
-
-<table><tr><td><img src="images/027.png" alt="" width="100%"></td></tr></table>
 
 槛外疏篁荫石渠，水声和月到林居。 清修自得幽人意，不是持竿欲羡鱼。
 

@@ -3,9 +3,6 @@ title: 沙漠钻石酒店｜重启：回归内心宇宙
 city: 宁夏 · 中卫 · 腾格里沙漠
 hotel: 沙漠钻石酒店（Desert Diamond Hotel）
 architect: 水石设计 · 米川工作室（主创建筑师 谢湲）
-publisher: 吾心即宇宙
-author: 耿悦
-first_published_on: 微信公众号「吾心即宇宙」
 original_url: https://mp.weixin.qq.com/s/LTjN6zMyT15IkF-KWs-DhQ
 image_credit: 品牌官方、耿悦
 license_note: |
@@ -16,8 +13,6 @@ license_note: |
 # 沙漠钻石酒店 · 重启：回归内心宇宙
 
 宁夏，中卫，腾格里沙漠，北纬 37°28′。
-
-**首发**：微信公众号「吾心即宇宙」 · 撰文：耿悦
 
 **素材授权**：本文图片与文字由「沙漠钻石酒店」品牌方及「水石设计·米川工作室」（主创建筑师 谢湲）授权提供。
 

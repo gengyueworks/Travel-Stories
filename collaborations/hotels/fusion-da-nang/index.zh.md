@@ -3,9 +3,6 @@ title: 越南岘港 Fusion ｜「住进水疗里」的身心焕新之旅
 city: 越南 · 岘港
 hotel: Fusion Resort & Villas Da Nang（岘港富园度假村及别墅）
 brand: Fusion（越南本土旅宿品牌）
-publisher: 吾心即宇宙
-author: 耿悦
-first_published_on: 微信公众号「吾心即宇宙」
 original_url: https://mp.weixin.qq.com/s/sBjuV1PRNgKZAKxALCiRuw
 image_credit: 耿悦、品牌提供
 award: 2025 世界豪华水疗奖 · 全球最佳海滩度假村水疗中心（Maia Spa）
@@ -17,8 +14,6 @@ license_note: |
 # 越南岘港 Fusion ·「住进水疗里」的身心焕新之旅
 
 越南，岘港，会安古城与纯净海岸之间。
-
-**首发**：微信公众号「吾心即宇宙」 · 撰文：耿悦
 
 **素材授权**：本文图片与文字由「Fusion Resort & Villas」品牌方与撰文者耿悦共同提供。
 
