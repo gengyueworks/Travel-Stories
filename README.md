@@ -46,6 +46,7 @@ Every story appears in both Chinese and English. All words and photographs are m
 
 | 中文版 | English | 地点 |
 |--------|---------|------|
+| [我们终究会成为在路上的人](stories/on-the-road/index.zh.md) | 待补 | 序言 · 在路上 |
 | [穿对了衣服，旅行照片想不美都难](stories/the-right-clothes/index.zh.md) | [Wearing the Right Clothes](stories/the-right-clothes/index.en.md) | 旅行穿搭 |
 | [穿对了裙子，旅行照片想不美都难](stories/the-right-dress/index.zh.md) | [Wearing the Right Dress](stories/the-right-dress/index.en.md) | 旅行穿搭 |
 | [我的灵魂里有一个吉普赛人](stories/gypsy-in-my-soul/index.zh.md) | [There Is a Gypsy in My Soul](stories/gypsy-in-my-soul/index.en.md) | 塞维利亚 |
