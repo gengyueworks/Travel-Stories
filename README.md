@@ -27,7 +27,6 @@ Every story appears in both Chinese and English. All words and photographs are m
 | [巴塞罗那 · 总想再去看看的地方](stories/barcelona-gracia-food-gaudi/index.zh.md) | 中文版 | 巴塞罗那 |
 | [苏东坡的城市之旅 · 有没有因为一个人而爱上一座城](stories/su-dongpo-cities/index.zh.md) | 中文版 | 苏东坡足迹 |
 | [建筑之美 · 巴塞罗那的高迪](stories/gaudi-barcelona/index.zh.md) | 中文版 | 巴塞罗那 |
-| [巨型建筑 · 迪拜的震撼](stories/dubai-mega-structures/index.zh.md) | 中文版 | 迪拜 |
 | [上海弄堂 · 雨中偶遇的惊喜](stories/shanghai-lane-walks/index.zh.md) | 中文版 | 上海 |
 | [穿对了衣服，旅行照片想不美都难](stories/the-right-clothes/index.zh.md) | [Wearing the Right Clothes](stories/the-right-clothes/index.en.md) | 旅行穿搭 |
 | [穿对了裙子，旅行照片想不美都难](stories/the-right-dress/index.zh.md) | [Wearing the Right Dress](stories/the-right-dress/index.en.md) | 旅行穿搭 |
@@ -50,15 +49,7 @@ Every story appears in both Chinese and English. All words and photographs are m
 
 24 小时、72 小时，把一座城市吃到玩透的城市清单。
 
-- [**庞贝古城 · 一座在时空中冻结的城**](guides/pompeii-ruins/index.zh.md)
-- [**一首诗，一座城 · 充满诗意的地名**](guides/poetic-place-names/index.zh.md)
-- [**为什么外国人喜欢张家界**](guides/zhangjiajie-avatar/index.zh.md)
-- [**大自然的鬼斧神工 · 长方形冰山**](guides/rectangular-iceberg/index.zh.md)
-- [2025 成都旅行参考 · 景点、美食、路线实用信息合集](guides/chengdu-travel-guide/index.zh.md)
-- [伦敦24小时清单](guides/london-24-hours/index.zh.md)
-
-[查看全部旅行攻略 →](guides/)
-
+**→ [查看全部旅行攻略（庞贝古城 · 诗意地名 · 张家界 · 成都 · 伦敦）](guides/)**
 
 ---
 
