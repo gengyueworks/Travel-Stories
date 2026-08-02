@@ -17,6 +17,7 @@ Every story appears in both Chinese and English. All words and photographs are m
 | 中文版 | English | 地点 |
 |--------|---------|------|
 | [我们终究会成为在路上的人](stories/on-the-road/index.zh.md) | 中文版 | 序言 · 在路上 |
+| [山路十八弯 · 怒江 72 拐](stories/shan-lu-18-curves/index.zh.md) | 中文版 | 川藏线 · 怒江 |
 | [黄河飞索 · 肾上腺素飙升](stories/huanghe-flying-cable/index.zh.md) | 中文版 | 宁夏 · 中卫 |
 | [多瑙河畔 · 浪漫会抵达](stories/danube-river-walk/index.zh.md) | 中文版 | 奥地利 · 维也纳 |
 | [出国旅行后，我最大的感悟](stories/travel-reflections-abroad/index.zh.md) | 中文版 | 全球 |
