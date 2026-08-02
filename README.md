@@ -70,6 +70,7 @@ Every story appears in both Chinese and English. All words and photographs are m
 | [沙漠钻石酒店 · 重启：回归内心宇宙](collaborations/hotels/desert-diamond/index.zh.md) | 中文版 | 宁夏 · 中卫 · 腾格里沙漠 |
 | [越南岘港 Fusion ·「住进水疗里」的身心焕新之旅](collaborations/hotels/fusion-da-nang/index.zh.md) | 中文版 | 越南 · 岘港 |
 | [无锡荡口古镇美憬阁 · 重绘一曲江南史诗](collaborations/hotels/mgallery-dangkou/index.zh.md) | 中文版 | 江苏 · 无锡 · 荡口古镇 |
+| [迪拜 24 小时的喜与欢 · 城市清单（含 Palazzo Versace / Armani）](collaborations/hotels/dubai-24h-2017/index.zh.md) | 中文版 | 阿联酋 · 迪拜 |
 
 ---
 
