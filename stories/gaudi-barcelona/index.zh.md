@@ -6,7 +6,7 @@
 
 还是说说高迪的建筑吧，被疯狂的人类和极致的创造打动。
 
-![img](https://picx.zhimg.com/v2-e3524c28d7ebadbd75773cd9bbbbe4ef_r.jpg?source=2c26e567)
+![img](images/001.jpg)
 
 在巴塞罗那，有两个人不容错过，建筑巨匠高迪和航海家哥伦布。
 
@@ -16,7 +16,7 @@
 
 Antoni Gaudi I Cornet（1852—1926）
 
-![img](https://picx.zhimg.com/v2-9bba27bc002559a912d1b3bf50094ce9_r.jpg?source=2c26e567)
+![img](images/002.jpg)
 
 不仅是「建筑之美」，他的闪光太多了，吸引我的：
 
@@ -24,7 +24,7 @@ Antoni Gaudi I Cornet（1852—1926）
 
 而这个世界，正是由爱做梦，和能把梦做成的高迪创造的[1]。
 
-![img](https://pic1.zhimg.com/v2-a7d5d9663d093e865f729e35fb56171d_r.jpg?source=2c26e567)
+![img](images/003.jpg)
 
 因为他的建筑，使巴塞成为一座遗留在人间的梦幻之城。
 
@@ -36,7 +36,7 @@ Antoni Gaudi I Cornet（1852—1926）
 
 宗教协会决定修建一座新的赎罪教堂。
 
-![img](https://pica.zhimg.com/v2-b6c037c14b0c1d5a3ee748dd36725805_r.jpg?source=2c26e567)
+![img](images/004.jpg)
 
 其实去巴塞之前，在欧洲各个国家，已经看过了无数个教堂，
 
@@ -48,7 +48,7 @@ Antoni Gaudi I Cornet（1852—1926）
 
 轻声感叹：“高迪真是一个天才。”
 
-![img](https://pica.zhimg.com/v2-1e415e4fb96d93c908d54264e659223c_r.jpg?source=2c26e567)
+![img](images/005.jpg)
 
 相机一直就没有放下。实在是太美了。
 
@@ -56,13 +56,13 @@ Antoni Gaudi I Cornet（1852—1926）
 
 再到奇思妙想的穹顶，每一个角落都不容错过。
 
-![img](https://pic1.zhimg.com/v2-3f79642b593a63b3c6d1cd5648e8fa31_r.jpg?source=2c26e567)
+![img](images/006.jpg)
 
 “如果你穿白色的衣服走进教堂，透过彩色玻璃印在你身上的光，就仿佛圣光一样。”
 
 记得听作家蒋勋介绍哥特建筑的彩色玻璃时这样讲过。
 
-![img](https://pica.zhimg.com/v2-36a1ea5d668f9afa25a5a58068bc4dbd_r.jpg?source=2c26e567)
+![img](images/007.jpg)
 
 有人说高迪是天才，有人说他是疯子，因为“只有疯子，才会试图去描绘世界上不存在的东西。”
 
@@ -70,7 +70,7 @@ Antoni Gaudi I Cornet（1852—1926）
 
 “我不确定我们把学位授予了一个疯子还是天才。”
 
-![img](https://picx.zhimg.com/v2-a2030165edaf9ae21c8199cdccb383db_r.jpg?source=2c26e567)
+![img](images/008.jpg)
 
 ### 建筑应该像大自然
 
@@ -84,7 +84,7 @@ Antoni Gaudi I Cornet（1852—1926）
 
 总能在他的作品里感受到广阔而活灵活现的自然主义梦想。
 
-![img](https://picx.zhimg.com/v2-b332dd74512f8b1160e50b076aafb43d_r.jpg?source=2c26e567)
+![img](images/009.jpg)
 
 我读到一段他小时候的生平：
 
@@ -104,7 +104,7 @@ Antoni Gaudi I Cornet（1852—1926）
 
 做个「匠人」，不紧不慢，打磨细节。
 
-![img](https://picx.zhimg.com/v2-a9108086ccab13afdf2c2845fc03d75a_r.jpg?source=2c26e567)
+![img](images/010.jpg)
 
 在30多年建造圣家堂的过程中，高迪希望将种种独属于他的元素都在其中融合，并以符合宗教题材的方式呈现。
 
@@ -112,7 +112,7 @@ Antoni Gaudi I Cornet（1852—1926）
 
 百年一生，倾其所有。执着把一辈子的光阴倾注在这一件事情上。
 
-![img](https://pic1.zhimg.com/v2-0bc7b8ad4a0e676fe410d8eddc2c32b6_r.jpg?source=2c26e567)
+![img](images/011.jpg)
 
 高迪的建筑似乎拥有一种神赐的魔力，可以违反地心引力原则。
 
@@ -120,68 +120,68 @@ Antoni Gaudi I Cornet（1852—1926）
 
 三个正门分别象征着诞生，复活和荣耀。
 
-![img](https://picx.zhimg.com/v2-b3c20b1ddf00209d2e28b71870008ebb_r.jpg?source=2c26e567)
+![img](images/012.jpg)
 
 > 18座尖塔中，有5座代表圣母玛利亚和基督教的4个福音传教士，
 > 12座代表12门徒，而中间最高的一座自然代表耶稣本人了。
 > 整个教堂高170米，底座长90米，宽60米，
 > 如此大规模的教堂，使得高迪花费了一生的时间，也只修好了诞生门和一个尖塔。[2]
 
-![img](https://picx.zhimg.com/v2-6b5c4bf15e132d41a3de1e97be58e2be_r.jpg?source=2c26e567)
+![img](images/013.jpg)
 
 整座教堂一门一柱的神、人、鸟禽、野兽.......
 
 连每个人物的具体神态都不一样，
 
-![img](https://picx.zhimg.com/v2-2280adccd048c79be9a7359f47e14fd1_r.jpg?source=2c26e567)
+![img](images/014.jpg)
 
 每处细节，被工匠们极为精细的雕刻。[3] 栩栩如生.....
 
-![img](https://pic1.zhimg.com/v2-431fde58d1c40cd75e1b55bb574ea8db_r.jpg?source=2c26e567)
+![img](images/015.jpg)
 
 当有一天你亲自走进去的时候，会真心引发共鸣的，
 
 是高迪对美的追求和欣赏，非常热切。
 
-![img](https://pica.zhimg.com/v2-4e9c77b27fec98096374edfb16a6a42d_r.jpg?source=2c26e567)
+![img](images/016.jpg)
 
 在他的彩色世界里，像沐浴在上帝之光的森林里，内心对光线开了窍。
 
-![img](https://picx.zhimg.com/v2-0d72caf37bfb57f3702bf24bec4183fa_r.jpg?source=2c26e567)
+![img](images/017.jpg)
 
 “他的建筑完全是另一个世界，
 
 是一个充满想象力、梦幻般的乌托邦。”
 
-![img](https://picx.zhimg.com/v2-837826128d6c0f4aacc643a70726a0c5_r.jpg?source=2c26e567)
+![img](images/018.jpg)
 
 ### 米拉公寓（Casa Milá，1906—1910）
 
-![img](https://pic1.zhimg.com/v2-fca13b276d7d9e5f5399d6605d6804ee_r.jpg?source=2c26e567)
+![img](images/019.jpg)
 
 我爬到了米拉之家的屋顶，整座大楼宛如波涛汹涌的海面，
 
 飘落树叶的阳台、布满武士雕塑的天台，爱上了高迪赋予建筑的浪漫。
 
-![img](https://picx.zhimg.com/v2-0e220adf4f44ffc26fe234981e5eea6b_r.jpg?source=2c26e567)
+![img](images/020.jpg)
 
 米拉公寓外表，像是地中海里的波浪，此起彼伏，
 
 从外部看来，极具律动感，这种设计让建筑构架和墙面相互独立，
 
-![img](https://picx.zhimg.com/v2-7ee264b4b875aef21492e6295a47c2a5_r.jpg?source=2c26e567)
+![img](images/021.jpg)
 
 > 也就是说，它外部那些波涛汹涌的墙面本身不用承重，
 > 可以随便飘，爱怎么嘚瑟就怎么嘚瑟，就好像一个超现实主义雕塑一样，完全不需要规则限制。[4]
 
-![img](https://pica.zhimg.com/v2-2b0fd0ae3054521a868f390beeb96c76_r.jpg?source=2c26e567)
+![img](images/022.jpg)
 
 > 公寓屋顶上有六个大尖顶和若干小的突出物体，
 > 其造型有的似神话中的怪兽，有的如螺旋体，有的如无名的花蕾，骷髅、天外来客……
 
 登上屋顶，随你的想象去发挥去猜是什么奇幻宇宙。
 
-![img](https://pic1.zhimg.com/v2-928e11576235018caac0f0b90d8c94f1_r.jpg?source=2c26e567)
+![img](images/023.jpg)
 
 我在这个寓所，被打动的地方至今还记得：
 
@@ -189,7 +189,7 @@ Antoni Gaudi I Cornet（1852—1926）
 
 于是在顶部做了这样的设计，让阳光能够从顶端倾洒，让更多人看见光。
 
-![img](https://picx.zhimg.com/v2-238e41b42b5c3dfd91d4f54b17ace286_r.jpg?source=2c26e567)
+![img](images/024.jpg)
 
 > 高迪的社会思想， 也带给了米拉之家一些与众不同的特质，其中最突出之处便是屋顶露台。
 > 在高迪的设想中，邻居们在这里晾衣物，晒太阳，聚会社交；
@@ -197,7 +197,7 @@ Antoni Gaudi I Cornet（1852—1926）
 
 除了外形奇特，其实他很注重建筑的实用和功能性，注重采光和通风。
 
-![img](https://picx.zhimg.com/v2-5abbc782889fe4c83c12bc2c1495210c_r.jpg?source=2c26e567)
+![img](images/025.jpg)
 
 ## 巴特罗公寓（Casa Batllo，1904—1906）
 
@@ -205,17 +205,17 @@ Antoni Gaudi I Cornet（1852—1926）
 
 漩涡般的天顶，水波般的阳台， 潜水艇般的房间，海渊般贴满蓝色马赛克的中庭......
 
-![img](https://picx.zhimg.com/v2-24c74c4ba3dc3b073503a21fd5899efe_r.jpg?source=2c26e567)
+![img](images/026.jpg)
 
 设计灵感来自神话故事，圣乔治屠龙救下了被龙绑架的公主，
 
 据说圣乔治骑着马、手拿长矛攻击龙时，身上的血幻化成了玫瑰。
 
-![img](https://picx.zhimg.com/v2-30c23b81b8a79bc38918b082f21715c5_r.jpg?source=2c26e567)
+![img](images/027.jpg)
 
 …[6]而建筑的内部宛如一个海洋世界。
 
-![img](https://picx.zhimg.com/v2-1987aa2a158dd6114bdfe8de10a9a144_r.jpg?source=2c26e567)
+![img](images/028.jpg)
 
 接着走进建筑的书店里，开始翻看高迪的书，和纪录片，开始慢慢了解他。
 
@@ -223,13 +223,13 @@ Antoni Gaudi I Cornet（1852—1926）
 
 他认为这世界上最好的柱子是大树，最好的圆屋顶就是我们的头颅。
 
-![img](https://pic1.zhimg.com/v2-bbdb2c732a5711a67ef5df7be8855f54_r.jpg?source=2c26e567)
+![img](images/029.jpg)
 
 他用上帝的眼光去看城市。
 
 那些不规则的弯弯曲曲的云层、贝壳、花瓣、水滴，都被他用进建筑创作的世界里。
 
-![img](https://pica.zhimg.com/v2-c00f90448bed34c9e9c8a670153d14a3_r.jpg?source=2c26e567)
+![img](images/030.jpg)
 
 他赋予建筑意义。“龙”是巴特罗公寓离不开的设计元素，还有守护古埃尔公园的变色龙。
 
@@ -239,7 +239,7 @@ Antoni Gaudi I Cornet（1852—1926）
 > 这样说来，龙是一种必要的怪物。
 > 博尔赫斯
 
-![img](https://pic1.zhimg.com/v2-50c8dee70bc6db87838e1e3df449774c_r.jpg?source=2c26e567)
+![img](images/031.jpg)
 
 ## 古埃尔公园（Parque Güell，1900—1914）
 
@@ -251,13 +251,13 @@ Antoni Gaudi I Cornet（1852—1926）
 
 为此，他在郊区买了一座光秃秃的山头，打算就在这里建设“古埃尔公园”。
 
-![img](https://pica.zhimg.com/v2-f1aee3c0b8b623a3f2759916f473e6a2_r.jpg?source=2c26e567)
+![img](images/032.jpg)
 
 高迪满腔热情地支持古埃尔的这一计划。
 
 最终把这里打造成一个童话世界，又像一件悬挂在空中的巨型艺术作品[7]。
 
-![img](https://pic1.zhimg.com/v2-811a8e508dfc41414e447e1116b2acdf_r.jpg?source=2c26e567)
+![img](images/033.jpg)
 
 这里就是比较费鞋，一直都是上坡。当你爬到半山腰，可俯瞰整个巴塞罗那。
 
@@ -265,15 +265,15 @@ Antoni Gaudi I Cornet（1852—1926）
 
 当我漫步其中，感受到这里的魅力：时而疯狂，时而怪诞，不可思议的迷人。
 
-![img](https://pic1.zhimg.com/v2-75846cef5753f6b7121af6654e7fe2d2_r.jpg?source=2c26e567)
+![img](images/034.jpg)
 
 高迪酷爱使用西班牙瓷砖，在弯曲的蛇形座椅上、石柱、长廊上，都嵌满了各式的西班牙特有的马赛克图案。
 
 这些图案全由瓷砖拼贴而成，色彩斑斓的碎片在阳光下闪耀光泽。
 
-![img](https://pic1.zhimg.com/v2-3d3191301a45dff3e4d5334875419387_r.jpg?source=2c26e567)
+![img](images/035.jpg)
 
-![img](https://pic1.zhimg.com/v2-fa4db5f452f8e2520a5153f5d78e3c69_r.jpg?source=2c26e567)
+![img](images/036.jpg)
 
 还看到一处很动人的：高迪尊重大自然，在意一切资源和回馈。
 
@@ -281,7 +281,7 @@ Antoni Gaudi I Cornet（1852—1926）
 
 他非常谦虚，尊重自然里的每一个元素，一花一草，一树一木，都是来自大自然的慷慨馈赠，都珍贵，值得珍惜它们的价值。[8]
 
-![img](https://picx.zhimg.com/v2-9fbfcfa3dad75a91649d7fb84d680563_r.jpg?source=2c26e567)
+![img](images/037.jpg)
 
 > 高迪生命的最后12个年头全部奉献给了圣家堂：他对此如痴如醉。
 > 当资金耗尽之后，他挨家挨户地乞讨捐赠，以继续他毕生挚爱的创作。
@@ -300,7 +300,7 @@ Antoni Gaudi I Cornet（1852—1926）
 > 守护作品最初的灵魂固然重要，但是作品的灵魂也是和作品生存的那个年代密切相关的。”
 > 高迪
 
-![img](https://pic1.zhimg.com/v2-a3af30f1b3ca60424b6eabe544f54c4c_r.jpg?source=2c26e567)
+![img](images/038.jpg)
 
 圣家族是高迪献给世人的礼物。
 
@@ -312,13 +312,13 @@ Antoni Gaudi I Cornet（1852—1926）
 
 圣家族大教堂首次点亮了塔顶上的一颗12角星，伯利恒之星。
 
-![img](https://picx.zhimg.com/v2-4bc684f992645caf5fe3d08d7dc68390_r.jpg?source=2c26e567)
+![img](images/039.jpg)
 
 这颗星星直径7.5米，重约5.5吨，被安置在高138米的圣母楼楼顶。
 
 这正式宣告教堂内第二高塔——圣母塔的落成。
 
-![img](https://pic1.zhimg.com/v2-75a493db2b71dadb79c967f4aec101d2_r.jpg?source=2c26e567)
+![img](images/040.jpg)
 
 当时人们在疫情中，感受到了一丝人类群星闪耀的喜悦，
 
@@ -326,7 +326,7 @@ Antoni Gaudi I Cornet（1852—1926）
 
 是“经过一年的黑暗和不知疲倦的斗争后的历史性时刻”[11]。
 
-![img](https://picx.zhimg.com/v2-3c39d0c650955d24f560607aff66c5fb_r.jpg?source=2c26e567)
+![img](images/041.jpg)
 
 高迪曾在手稿中写下：“蓝色玻璃象征活水。”
 
@@ -336,12 +336,12 @@ Antoni Gaudi I Cornet（1852—1926）
 
 人性和神性双重闪耀的星光，仍在漫长的黑夜里发亮。
 
-![img](https://picx.zhimg.com/v2-08ee5e9cf065e9bf7242ebca7d3ce3f1_l.jpg?source=f2fdee93)
+![img](images/042.png)
 
 ## 参考
 
-![img](https://pic1.zhimg.com/v2-f51ebb52ccd9bc71bc4d5bf864fc6ce8_720w.jpg?source=172ae18b)
+![img](images/043.jpg)
 
-![img](https://picx.zhimg.com/v2-08ee5e9cf065e9bf7242ebca7d3ce3f1_l.jpg?source=172ae18b)
+![img](images/042.png)
 
-![img](https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c)
+![img](images/044.png)

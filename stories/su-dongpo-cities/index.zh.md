@@ -10,7 +10,7 @@
 
 也让足迹遍布大江南北。感兴趣可以随他的足迹去探索。
 
-![img](https://picx.zhimg.com/v2-ce9dc650d6720cc96ead0082efab6394_r.jpg?source=2c26e567)
+![img](images/001.jpg)
 
 > 苏轼出生于1037（北宋宋仁宗期间），四川眉山；
 > 20岁在东京（今河南开封）及弟进士；
@@ -22,7 +22,7 @@
 
 昨天重新翻了这本李一冰的《苏东坡新传》[1] 里面有一些更详细的信息，说几个主要城市，
 
-![img](https://pic1.zhimg.com/v2-4792eb0a3de28e1fe698fecbd7e5585f_r.jpg?source=2c26e567)
+![img](images/002.jpg)
 
 四川眉山
 
@@ -39,7 +39,7 @@
 > 在此寺中，他认识了成都僧统惟度和本是苏家远房族人的寺僧惟简。
 > 他们的年龄比苏轼大多了，但是谈得津津有味，听他们讲唐宋五代间的掌故，都是书本上所看不到的知识，求知欲非常旺盛的二十少年，听得非常兴奋。
 
-![img](https://picx.zhimg.com/v2-c51cc44e5fa45d4b5688c9d533d0c8ff_r.jpg?source=2c26e567)
+![img](images/003.jpg)
 
 ### 浙江杭州
 
@@ -85,7 +85,7 @@
 
 苏轼不禁欢喜赞叹道：“是造物者之无尽藏也。
 
-![img](https://picx.zhimg.com/v2-e81ded788c68a756973072dbdd52bfc0_r.jpg?source=2c26e567)
+![img](images/004.jpg)
 
 几乎置他于死地的“乌台诗案”后，苏轼于元丰三年（1080）去到了人生第一个贬谪之所黄州（今湖北黄冈）。
 
@@ -107,7 +107,7 @@
 
 > “回首向来萧瑟处，归去，也无风雨也无晴。”
 
-![img](https://picx.zhimg.com/v2-1986c74a174b1c9782e1895b1f36f452_r.jpg?source=2c26e567)
+![img](images/005.jpg)
 
 ## 山东密州
 
@@ -146,7 +146,7 @@
 
 明月进入他的眼里，心里，诗里。[3] 还有凤翔，琼崖，即今海南，其他的地址以后有机会再分享。
 
-![img](https://pic1.zhimg.com/v2-7fa4fe2c823c6446c9b493714fd3f1b3_r.jpg?source=2c26e567)
+![img](images/006.jpg)
 
 当你顺着城市去看苏轼的人生，会感到他也有万千愤懑和苦痛，起伏颠簸，
 
@@ -168,8 +168,8 @@
 
 ## 参考
 
-![img](https://pic1.zhimg.com/v2-c5be1695771c4f9b442b5bde56e5e8e0_720w.jpg?source=172ae18b)
+![img](images/007.png)
 
-![img](https://picx.zhimg.com/v2-08ee5e9cf065e9bf7242ebca7d3ce3f1_l.jpg?source=172ae18b)
+![img](images/008.png)
 
-![img](https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c)
+![img](images/009.png)

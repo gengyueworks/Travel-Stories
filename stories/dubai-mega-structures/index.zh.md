@@ -10,7 +10,7 @@
 
 背后的逻辑，和敏锐的人性观察。
 
-![img](https://picx.zhimg.com/v2-a081678e00c4855839aede0975b7f6be_r.jpg?source=2c26e567)
+![img](images/001.jpg)
 
 ## 一、巨型建筑
 
@@ -26,7 +26,7 @@
 
 位于124层的“At the top”（意为在高处）公共观景台配备有观景望远镜，供访客实时观赏楼下风光。
 
-![img](https://picx.zhimg.com/v2-34bbc93bd7d72d0727b42a3a05ac7ae8_r.jpg?source=2c26e567)
+![img](images/002.jpg)
 
 除了足够高，哈利法塔还兼具尊贵、舒适等功能，在哈利法塔内设有世界首家由知名时尚设计师乔治·阿玛尼全方位设计打造的酒店：
 
@@ -38,7 +38,7 @@
 
 世界最高的人造结构，最高使用楼层，最高室外观景台，行程最长电梯及最高服务电梯等。
 
-![img](https://pic1.zhimg.com/v2-4b1d9b291446c7dca450691dfec30378_r.jpg?source=2c26e567)
+![img](images/003.jpg)
 
 我的感受：初见哈利法塔，我找了很多角度，很难把它拍的很全。
 
@@ -48,7 +48,7 @@
 
 而我最享受的的是，就像飞机一样，住在哈利法塔顶端，就像生活在云端，很多时候透过窗外，看到都是云彩，回想起来也是醉醉的。
 
-![img](https://picx.zhimg.com/v2-3f5c2d30d3e455eda58b2e5a12c05437_r.jpg?source=2c26e567)
+![img](images/004.jpg)
 
 听设计师说说背后的设计故事：
 
@@ -64,7 +64,7 @@
 
 ## 2、迪拜帆船酒店 BurjAlArab
 
-![img](https://pica.zhimg.com/v2-ff5802dc108d5c87f05f0188df24cbe8_r.jpg?source=2c26e567)
+![img](images/005.jpg)
 
 迪拜帆船酒店，一共有56层，321米高，由英国设计师W.S.Atkins设计。
 
@@ -74,7 +74,7 @@
 
 已故顶级时装设计师范思哲曾对它赞不绝口。
 
-![img](https://pica.zhimg.com/v2-cdc4d79d56400f9a542a0279a166aefc_r.jpg?source=2c26e567)
+![img](images/006.jpg)
 
 我的感受：从远处看过去，帆船酒店更像是一艘行进中的酒店，外形非常独特，它遥立在水波中也足够惊艳。
 
@@ -84,7 +84,7 @@
 
 它的最豪华的780平方米的总统套房也是金灿灿的。
 
-![img](https://picx.zhimg.com/v2-72ce7c4fd320e824ac5087733aa61a69_r.jpg?source=2c26e567)
+![img](images/007.jpg)
 
 听设计师说说背后的设计故事：
 
@@ -92,7 +92,7 @@
 > “在为迪拜帆船酒店做设计定案时，我们把建筑的外观造型画出来，画得越快证明设计越独特。” 五秒钟就能记住它的外形。
 > “这样的建筑可不多，” 赖特补充道，“你一画出迪拜帆船酒店的形象，人们就知道那是什么。”
 
-![img](https://pica.zhimg.com/v2-aca1954584769ae45b11e30a379ef8ea_r.jpg?source=2c26e567)
+![img](images/008.jpg)
 
 > 我们拿到的方案概要表明期望修建一座能让迪拜名扬国际的建筑，
 > 所以我们认识到，只有设计一个令人印象深刻且前无古人的造型才能达到目的。
@@ -101,7 +101,7 @@
 
 迪拜帆船酒店逐渐成为迪拜的形象代表。
 
-![img](https://pic1.zhimg.com/v2-92e42d944d32c0ed192ef783547633f5_r.jpg?source=2c26e567)
+![img](images/009.jpg)
 
 > 当年迪拜的建筑都是清一色的水泥砖块再刷点颜色，楼层也都不高，结果突然同时冒出了迪拜帆船酒店和阿联酋大厦两座庞然大物。
 > 它们改变了一切，一夜之间便吸引来无数的商机和资源，极大地推动了迪拜的城市建设。
@@ -110,7 +110,7 @@
 
 ## 3、迪拜棕榈岛 The Palm Islands
 
-![img](https://picx.zhimg.com/v2-72425910dd2144dcd0c3363b8cfc3200_r.jpg?source=2c26e567)
+![img](images/010.jpg)
 
 当我们坐着水上飞机，从空中俯瞰“迪拜棕榈岛”，它由3处大棕榈树状群岛“朱美拉” 、“杰拜阿里”、“戴拉”和一处世界地图形状的人造群岛组成。
 
@@ -118,13 +118,13 @@
 
 甚至坐着直升飞机从高空专门俯瞰这些奇迹建筑。
 
-![img](https://pic1.zhimg.com/v2-e7022783634ffdb78ff85c70166c62cf_r.jpg?source=2c26e567)
+![img](images/011.jpg)
 
 迪拜面积仅两个伦敦大小，海岸线只有72公里，沿海一带居民住房困难，棕榈岛工程完成后使阿联酋的海岸线增加近120公里，增幅为166%。
 
 耗资140亿美元打造而成的迪拜棕榈岛被誉为“世界第八大奇迹”。
 
-![img](https://pic1.zhimg.com/v2-3042b4f16b67bb2360ec04d30f8dc5be_r.jpg?source=2c26e567)
+![img](images/012.jpg)
 
 我的感受：
 
@@ -136,7 +136,7 @@
 
 通过一座300米长的桥梁与陆地相连.每座岛由一个“树干”、17根“枝条”和一圈防波堤组成。
 
-![img](https://pica.zhimg.com/v2-1df37ba91a007a5d5b5db7a3b2b74d64_r.jpg?source=2c26e567)
+![img](images/013.jpg)
 
 除了外形像棕榈叶，岛上还种植了12000多棵棕榈树，全岛一片绿色，郁郁葱葱，空气清新，加之沐浴在温暖的阳光、碧蓝的海边，一个完美的海边生活浮现于眼前。
 
@@ -146,7 +146,7 @@
 
 ## 二、为何建造
 
-![img](https://pic1.zhimg.com/v2-104d5115ed914be58732ced6fdd97e19_r.jpg?source=2c26e567)
+![img](images/014.jpg)
 
 曾两次去迪拜恰好体验过巨型建筑，当时做为旅行创作者，见识了极致的奢华。
 
@@ -158,7 +158,7 @@
 
 这本书叫做《我们为何建造》，是英国的建筑评论家罗恩·穆尔长期对建筑和人性进行敏锐观察之后的成果。
 
-![img](https://picx.zhimg.com/v2-8df27a535e7378ae29151ae595190001_r.jpg?source=2c26e567)
+![img](images/015.jpg)
 
 迪拜一直在以极快的速度建造惊世骇俗的建筑，极奢华，极高，极巨大，
 
@@ -180,7 +180,7 @@
 
 接着就到了下一个建筑的目标，「世界第一高楼」的建造。
 
-![img](https://picx.zhimg.com/v2-ca3b773c4d80644bb4ffb6f09cac726b_r.jpg?source=2c26e567)
+![img](images/016.jpg)
 
 罗恩·穆尔[1]认为，这些建筑都是迪拜的形象工程，是迪拜神话的要素。
 
@@ -188,7 +188,7 @@
 
 用一个宣传片中的话来说，这些东西瞬间让“迪拜为世界所知”。”
 
-![img](https://picx.zhimg.com/v2-f5e4eef096ab2b01b43b2822cb05265b_r.jpg?source=2c26e567)
+![img](images/017.jpg)
 
 “迪拜出现了那些建筑神话，它们总是很及时，广为流传，人人皆知。”
 
@@ -198,7 +198,7 @@
 
 而这也许是一座快速增长的城市，所必需的条件。它必须想象未来的样子，这是它售卖自己的标签。
 
-![img](https://pica.zhimg.com/v2-8a841a65fcab516ab75247dcaf57b2c6_r.jpg?source=2c26e567)
+![img](images/018.jpg)
 
 书中分析了迪拜的资源：
 
@@ -216,7 +216,7 @@
 
 城市相对安全，没有危险的传染病。除此之外，还有高质量的免税购物环境，这些都能够帮助它成为受欢迎的度假目的地。
 
-![img](https://pica.zhimg.com/v2-32365a3d2f60a323a7bac0bebab1d92f_r.jpg?source=2c26e567)
+![img](images/019.jpg)
 
 迪拜需要把无形资产转化为有形资产。
 
@@ -232,7 +232,7 @@
 
 棕榈岛在开建之前就已经名满天下，那个时候已经有了计算机模拟图像，罗恩·穆尔说，相比实际使用的感觉，棕榈岛的建设显然更注意视觉上的冲击力。
 
-![img](https://pica.zhimg.com/v2-e7266e66497d318f8c1223fec4fd67f8_r.jpg?source=2c26e567)
+![img](images/020.jpg)
 
 “迪拜神话的一个重要方面就是它的惊世骇俗，以及克服障碍的力量。
 
@@ -250,7 +250,7 @@
 
 它们的形象激发着人们的敬畏、震惊和幻想，也吸引着那些对金钱、对辉煌有强烈渴望的人。
 
-![img](https://picx.zhimg.com/v2-233de6ed29d40273715c819948acbd13_r.jpg?source=2c26e567)
+![img](images/021.jpg)
 
 “在描述迪拜时，人们会认同这样一个观点：
 
@@ -266,7 +266,7 @@
 
 这大概是第一章里的内容，感兴趣的话可以阅读这本书。
 
-![img](https://pica.zhimg.com/v2-0ea9dbd7ab0b6d619a10c297a2fcc979_r.jpg?source=2c26e567)
+![img](images/022.jpg)
 
 > “建筑不是一成不变的：
 > 不是它们的结构发生改变（常有这种情况），就是它们会面对不同的解读和价值的颠倒。
@@ -274,8 +274,8 @@
 
 ## 参考
 
-![img](https://pica.zhimg.com/v2-f51ebb52ccd9bc71bc4d5bf864fc6ce8_720w.jpg?source=172ae18b)
+![img](images/023.jpg)
 
-![img](https://picx.zhimg.com/v2-08ee5e9cf065e9bf7242ebca7d3ce3f1_l.jpg?source=172ae18b)
+![img](images/024.png)
 
-![img](https://pica.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c)
+![img](images/025.png)
