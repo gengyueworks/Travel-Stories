@@ -60,6 +60,10 @@ Every story appears in both Chinese and English. All words and photographs are m
 | [在印度的时光](stories/india-memories/index.zh.md) | [Time in India](stories/india-memories/index.en.md) | 印度 |
 | [厦门 · 在蓝屿](stories/xiamen-blue-island/index.zh.md) | [Xiamen · At the Blue Island](stories/xiamen-blue-island/index.en.md) | 厦门 |
 | [六月新疆行](stories/xinjiang-four-seasons/index.zh.md) | [June in Xinjiang](stories/xinjiang-four-seasons/index.en.md) | 新疆 |
+| [巴塞罗那 · 总想再去看看的地方](stories/barcelona-gracia-food-gaudi/index.zh.md) | 待补 | 巴塞罗那 |
+| [苏东坡的城市之旅 · 有没有因为一个人而爱上一座城](stories/su-dongpo-cities/index.zh.md) | 待补 | 苏东坡足迹 |
+| [建筑之美 · 巴塞罗那的高迪](stories/gaudi-barcelona/index.zh.md) | 待补 | 巴塞罗那 |
+| [巨型建筑 · 迪拜的震撼](stories/dubai-mega-structures/index.zh.md) | 待补 | 迪拜 |
 
 ---
 
