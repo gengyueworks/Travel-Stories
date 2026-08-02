@@ -16,6 +16,7 @@ Every story appears in both Chinese and English. All words and photographs are m
 |--------|---------|------|
 | [我们终究会成为在路上的人](stories/on-the-road/index.zh.md) | 中文版 | 序言 · 在路上 |
 | [我坐上了天后王菲乘坐过的那家热气球](stories/dubai-hot-air-balloon/index.zh.md) | 中文版 | 迪拜 |
+| [迪拜 · 一座沙漠里的奇迹之城（2017 长篇合集）](stories/dubai-2017-travel/index.zh.md) | 中文版 | 迪拜 |
 | [巴塞罗那 · 总想再去看看的地方](stories/barcelona-gracia-food-gaudi/index.zh.md) | 中文版 | 巴塞罗那 |
 | [苏东坡的城市之旅 · 有没有因为一个人而爱上一座城](stories/su-dongpo-cities/index.zh.md) | 中文版 | 苏东坡足迹 |
 | [建筑之美 · 巴塞罗那的高迪](stories/gaudi-barcelona/index.zh.md) | 中文版 | 巴塞罗那 |
