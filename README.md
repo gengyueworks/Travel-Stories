@@ -27,7 +27,7 @@ Every story appears in both Chinese and English. All words and photographs are m
 | [我的灵魂里有一个吉普赛人](stories/gypsy-in-my-soul/index.zh.md) | [There Is a Gypsy in My Soul](stories/gypsy-in-my-soul/index.en.md) | 塞维利亚 |
 | [我在加班深夜里的每一个白日梦](stories/overtime-daydreams/index.zh.md) | [Every Daydream in the Late Night of Overtime Work](stories/overtime-daydreams/index.en.md) | 白日梦 |
 | [一不小心爱上纽约](stories/falling-for-new-york/index.zh.md) | [Falling for New York](stories/falling-for-new-york/index.en.md) | 纽约 |
-| [你看，这才是纽约](stories/this-is-new-york/index.zh.md) | [Look, This Is New York](stories/this-is-new-york/index.en.md) | 纽约 |
+| [有一天，我会出发去纽约](stories/heading-to-new-york/index.zh.md) | 中文版 | 纽约 |
 | [在马赛马拉大草原](stories/masai-mara-cheetah/index.zh.md) | [On the Masai Mara](stories/masai-mara-cheetah/index.en.md) | 肯尼亚 |
 | [在波尔多举杯微醺](stories/bordeaux-eight-moments/index.zh.md) | [A Tipsy Toast to Bordeaux](stories/bordeaux-eight-moments/index.en.md) | 波尔多 |
 | [柏林 · 每一个文身背后，都隐藏着一个秘密](stories/berlin-tattoos/index.zh.md) | [Berlin: Behind Every Tattoo, a Secret Lies Hidden](stories/berlin-tattoos/index.en.md) | 柏林 |
