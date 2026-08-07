@@ -10,25 +10,25 @@ Every story appears in both Chinese and English. All words and photographs are m
 
 ---
 
-## 旅行故事 · Travel Stories
+## 目录 · Contents
 
 在路上，遇见的人和事，都成了故事。
 
-| 中文版 | English | 地点 |
-|--------|---------|------|
-| [我们终究会成为在路上的人](stories/on-the-road/index.zh.md) | 中文版 | 序言 · 在路上 |
-| [巴塞罗那 · 总想再去看看的地方](stories/barcelona-gracia-food-gaudi/index.zh.md) | 中文版 | 巴塞罗那 |
-| [苏东坡的城市之旅 · 有没有因为一个人而爱上一座城](stories/su-dongpo-cities/index.zh.md) | 中文版 | 苏东坡足迹 |
-| [建筑之美 · 巴塞罗那的高迪](stories/gaudi-barcelona/index.zh.md) | 中文版 | 巴塞罗那 |
-| [巨型建筑 · 迪拜的震撼](stories/dubai-mega-structures/index.zh.md) | 中文版 | 迪拜 |
+| 中文 | English | 备注 |
+|------|---------|------|
+| [我们终究会成为在路上的人](stories/on-the-road/index.zh.md) | 待补 | 序言 · 在路上 |
+| [巴塞罗那 · 总想再去看看的地方](stories/barcelona-gracia-food-gaudi/index.zh.md) | 待补 | 巴塞罗那 |
+| [苏东坡的城市之旅 · 有没有因为一个人而爱上一座城](stories/su-dongpo-cities/index.zh.md) | 待补 | 苏东坡足迹 |
+| [建筑之美 · 巴塞罗那的高迪](stories/gaudi-barcelona/index.zh.md) | 待补 | 巴塞罗那 |
+| [巨型建筑 · 迪拜的震撼](stories/dubai-mega-structures/index.zh.md) | 待补 | 迪拜 |
 | [我们「包」了一架水上飞机看迪拜](stories/dubai-seaplane/index.zh.md) | [We Chartered a Seaplane to See Dubai](stories/dubai-seaplane/index.en.md) | 迪拜 |
-| [上海弄堂 · 雨中偶遇的惊喜](stories/shanghai-lane-walks/index.zh.md) | 中文版 | 上海 |
+| [上海弄堂 · 雨中偶遇的惊喜](stories/shanghai-lane-walks/index.zh.md) | 待补 | 上海 |
 | [穿对了衣服，旅行照片想不美都难](stories/the-right-clothes/index.zh.md) | [Wearing the Right Clothes](stories/the-right-clothes/index.en.md) | 旅行穿搭 |
 | [穿对了裙子，旅行照片想不美都难](stories/the-right-dress/index.zh.md) | [Wearing the Right Dress](stories/the-right-dress/index.en.md) | 旅行穿搭 |
 | [我的灵魂里有一个吉普赛人](stories/gypsy-in-my-soul/index.zh.md) | [There Is a Gypsy in My Soul](stories/gypsy-in-my-soul/index.en.md) | 塞维利亚 |
 | [我在加班深夜里的每一个白日梦](stories/overtime-daydreams/index.zh.md) | [Every Daydream in the Late Night of Overtime Work](stories/overtime-daydreams/index.en.md) | 白日梦 |
 | [一不小心爱上纽约](stories/falling-for-new-york/index.zh.md) | [Falling for New York](stories/falling-for-new-york/index.en.md) | 纽约 |
-| [有一天，我会出发去纽约](stories/heading-to-new-york/index.zh.md) | 中文版 | 纽约 |
+| [有一天，我会出发去纽约](stories/heading-to-new-york/index.zh.md) | 待补 | 纽约 |
 | [在马赛马拉大草原](stories/masai-mara-cheetah/index.zh.md) | [On the Masai Mara](stories/masai-mara-cheetah/index.en.md) | 肯尼亚 |
 | [在波尔多举杯微醺](stories/bordeaux-eight-moments/index.zh.md) | [A Tipsy Toast to Bordeaux](stories/bordeaux-eight-moments/index.en.md) | 波尔多 |
 | [柏林 · 每一个文身背后，都隐藏着一个秘密](stories/berlin-tattoos/index.zh.md) | [Berlin: Behind Every Tattoo, a Secret Lies Hidden](stories/berlin-tattoos/index.en.md) | 柏林 |
