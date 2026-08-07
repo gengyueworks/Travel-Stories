@@ -1,6 +1,6 @@
 # Travel Stories · 旅行故事
 
-Original stories and travel guides from years of traveling the world—always on the road, writing honest stories, capturing heart-stirring moments, living one cool life.
+Original stories and travel guides from years of traveling the world. Always on the road, writing true stories, photographing the moments that move me, living one cool life.
 多年环游世界途中写下的原创故事与旅行攻略——她一直在路上，写真诚的故事，拍心动的瞬间，过一种很酷的人生。
 
 Every story appears in both Chinese and English. All words and photographs are my own.
@@ -54,7 +54,7 @@ Every story appears in both Chinese and English. All words and photographs are m
 
 ## About · 关于
 
-I'm Geng Yue, a traveler and writer. Always on the road, writing honest stories, capturing heart-stirring moments, living one cool life. For years I have been on the road around the world, and this column is where the road ends up: original long-form stories, told in words and photographs.
+I'm Geng Yue, a traveler and writer. Always on the road. For years I have been traveling the world, and this column is where the road ends up: original long-form stories, told in words and photographs.
 
 Not guides. Not checklists. Stories.
 
