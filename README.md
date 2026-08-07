@@ -1,7 +1,7 @@
 # Travel Stories · 旅行故事
 
 Original stories and travel guides from years of traveling the world—one place, one person, one moment at a time.
-多年环游世界途中写下的原创故事与旅行攻略——一个地方、一个人、一个瞬间，一次一篇。
+多年环游世界途中写下的原创故事与旅行攻略——她一直在路上，写真诚的故事，拍心动的瞬间，过一种很酷的人生。
 
 Every story appears in both Chinese and English. All words and photographs are my own.
 每篇故事均以中英双语发布。所有文字与照片均为原创。
